@@ -1,0 +1,32 @@
+[
+    {
+      "id": "1",
+      "name": "Rent",
+      "amount": "100.00",
+      "percentage": "20"
+    },
+    {
+      "id": "2",
+      "name": "Food",
+      "amount": "500.00",
+      "percentage": "15"
+    },
+    {
+      "id": "3",
+      "name": "Savings",
+      "amount": "200.00",
+      "percentage": "25"
+    },
+    {
+      "id": "4",
+      "name": "Debts",
+      "amount": "800.00",
+      "percentage": "10"
+    },
+    {
+      "id": "5",
+      "name": "Miscleneous",
+      "amount": "300.00",
+      "percentage": "18"
+    }
+  ]

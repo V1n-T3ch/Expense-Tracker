@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "name": "Visa",
+        "creditCardNumber": "4111-1111-1111-1111",
+        "balance": "15,000.00"
+    },
+    {
+        "id": "2",
+        "name": "Master Card",
+        "creditCardNumber": "5101-5101-5101-5101",
+        "balance": "30,000.00"
+    },
+    {
+        "id": "3",
+        "name": "American Express",
+        "creditCardNumber": "3782-8224-6310-2005",
+        "balance": "50,000.00"
+    }
+]
